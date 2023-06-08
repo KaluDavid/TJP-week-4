@@ -7,4 +7,4 @@ A developed Page of a figma design
 -CSS
 
 ## Live Demo
->[Live Demo Link]()
+>[Live Demo Link](https://kaludavid.github.io/TJP-week-4/)
